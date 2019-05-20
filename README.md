@@ -6,7 +6,7 @@ This app displays lists of vocabulary words for the user to learn the Miwok lang
 Pre-requisites
 --------------
 
-- Android SDK v23
+- Android SDK v28
 - Android Build Tools v28.0.0
 - Android Support Repository v28.0.0
 
